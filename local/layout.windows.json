@@ -1,0 +1,101 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -8,
+      "y": -8,
+      "width": 1382,
+      "height": 744,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 313,
+                "type": "panel",
+                "width": 273
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 301,
+                "type": "panel",
+                "width": 273
+              }
+            ],
+            "height": 617,
+            "type": "dock-v",
+            "width": 273
+          },
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "scene"
+                ],
+                "height": 337,
+                "type": "panel",
+                "width": 752
+              },
+              {
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline"
+                ],
+                "height": 277,
+                "type": "panel",
+                "width": 752
+              }
+            ],
+            "height": 617,
+            "type": "dock-v",
+            "width": 752
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector"
+            ],
+            "height": 617,
+            "type": "panel",
+            "width": 329
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "console",
+        "timeline",
+        "inspector",
+        "assets",
+        "scene"
+      ]
+    }
+  },
+  "panels": {
+    "node-library": {
+      "x": 525,
+      "y": 95,
+      "width": 316,
+      "height": 518
+    },
+    "preferences": {
+      "x": 385,
+      "y": 85,
+      "width": 600,
+      "height": 564
+    }
+  }
+}

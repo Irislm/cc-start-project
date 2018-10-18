@@ -1,0 +1,59 @@
+2018-10-17T09:57:03.389Z - normal: Load ~/.CocosCreator/settings.json
+2018-10-17T09:57:03.389Z - normal: checking language setting...
+2018-10-17T09:57:03.389Z - normal: Language: zh
+2018-10-17T09:57:05.246Z - success: protocol editor-framework registered
+2018-10-17T09:57:05.246Z - success: protocol app registered
+2018-10-17T09:57:05.246Z - success: protocol theme registered
+2018-10-17T09:57:05.246Z - success: protocol packages registered
+2018-10-17T09:57:05.246Z - success: protocol unpack registerred
+2018-10-17T09:57:05.246Z - success: protocol disable-commonjs registerred
+2018-10-17T09:57:05.464Z - normal: connected!
+2018-10-17T09:57:05.464Z - normal: Check project D:\cc\start_project
+2018-10-17T09:57:05.480Z - normal: Initializing project D:\cc\start_project
+2018-10-17T09:57:05.480Z - normal: Initializing Cocos2d
+2018-10-17T09:57:06.510Z - normal: Initializing Asset Database
+2018-10-17T09:57:06.603Z - success: protocol uuid registerred
+2018-10-17T09:57:06.603Z - success: protocol db registerred
+2018-10-17T09:57:06.603Z - success: protocol thumbnail registerred
+2018-10-17T09:57:06.603Z - normal: Loading editor/builtin packages
+2018-10-17T09:57:06.790Z - success: assets loaded
+2018-10-17T09:57:06.790Z - success: builder loaded
+2018-10-17T09:57:06.806Z - success: cocos-analytics loaded
+2018-10-17T09:57:06.806Z - success: console loaded
+2018-10-17T09:57:06.853Z - success: fb-instant-games loaded
+2018-10-17T09:57:06.853Z - success: hierarchy loaded
+2018-10-17T09:57:06.868Z - success: inspector loaded
+2018-10-17T09:57:06.868Z - success: keystore loaded
+2018-10-17T09:57:06.868Z - success: node-library loaded
+2018-10-17T09:57:06.868Z - success: package-asset loaded
+2018-10-17T09:57:06.868Z - success: preferences loaded
+2018-10-17T09:57:06.868Z - success: project-exporter loaded
+2018-10-17T09:57:06.900Z - success: project-importer loaded
+2018-10-17T09:57:06.900Z - success: project-settings loaded
+2018-10-17T09:57:06.900Z - success: ui-kit loaded
+2018-10-17T09:57:06.915Z - success: scene loaded
+2018-10-17T09:57:06.915Z - success: sprite-editor loaded
+2018-10-17T09:57:06.915Z - success: store loaded
+2018-10-17T09:57:06.915Z - success: timeline loaded
+2018-10-17T09:57:06.915Z - normal: Loading builtin packages
+2018-10-17T09:57:06.915Z - success: asset-db-debugger loaded
+2018-10-17T09:57:06.931Z - success: code-editor loaded
+2018-10-17T09:57:06.931Z - success: color-picker loaded
+2018-10-17T09:57:06.931Z - success: jsb-adapter loaded
+2018-10-17T09:57:06.931Z - success: package-manager loaded
+2018-10-17T09:57:07.056Z - success: qqplay-adapter loaded
+2018-10-17T09:57:07.071Z - success: sdkbox loaded
+2018-10-17T09:57:07.071Z - success: tester loaded
+2018-10-17T09:57:07.071Z - success: ui-grid loaded
+2018-10-17T09:57:07.071Z - success: ui-kit-preview-extra loaded
+2018-10-17T09:57:07.071Z - success: ui-kit-preview loaded
+2018-10-17T09:57:07.071Z - success: ui-tree loaded
+2018-10-17T09:57:07.071Z - success: weapp-adapter loaded
+2018-10-17T09:57:08.630Z - normal: Loading packages
+2018-10-17T09:57:08.645Z - normal: Watching packages
+2018-10-17T09:57:09.082Z - normal: Run Application
+2018-10-17T09:57:09.780Z - success: preview server running at http://localhost:7456
+2018-10-17T10:32:06.811Z - warn: The Node referenced by component "Game" is invalid. Detailed information:
+Node path: "Canvas"
+
+2018-10-17T11:06:24.709Z - info: shutdown preview server
